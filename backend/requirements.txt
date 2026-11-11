@@ -1,0 +1,9 @@
+flask
+flask-cors
+flask-sqlalchemy
+pdfplumber
+python-docx
+spacy
+nltk
+scikit-learn
+requests
