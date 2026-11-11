@@ -55,7 +55,7 @@ AI-Resume-Analyzer/
 ### 1. Clone
 
 ```bash
-git clone https://github.com/<your-username>/AI-Resume-Analyzer.git
+git clone https://github.com/ishika-muley/AI-Resume-Analyzer.git
 cd AI-Resume-Analyzer
 ```
 
@@ -123,7 +123,7 @@ Resumes are processed locally. Nothing is sent to an external service. Do not co
 
 ## Author
 
-Your Name: [GitHub profile](https://github.com/your-username)
+Ishika Muley: [GitHub profile](https://github.com/ishika-muley)
 
 ## License
 
